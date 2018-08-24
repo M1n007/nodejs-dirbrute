@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-dirbrute",
+  "version": "1.0.0",
+  "description": "for scanning directory",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "fs": "0.0.1-security",
+    "node-fetch": "^2.2.0",
+    "readline-sync": "^1.4.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/M1n007/nodejs-dirbrute.git"
+  },
+  "author": "M1n007",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/M1n007/nodejs-dirbrute/issues"
+  },
+  "homepage": "https://github.com/M1n007/nodejs-dirbrute#readme"
+}
