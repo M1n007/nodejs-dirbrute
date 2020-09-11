@@ -6,7 +6,7 @@
   "dependencies": {
     "chalk": "^2.4.1",
     "fs": "0.0.1-security",
-    "node-fetch": "^2.2.0",
+    "node-fetch": "^2.6.1",
     "readline-sync": "^1.4.9"
   },
   "devDependencies": {},
